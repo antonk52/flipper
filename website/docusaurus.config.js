@@ -24,6 +24,8 @@ const siteConfig = {
   }),
   baseUrl: '/',
   projectName: 'flipper',
+  // force enable
+  trailingSlash: true,
   // TODO: T69061026 enable once sandy docs are complete: external_domain: 'fbflipper.com',
   themeConfig: {
     navbar: {
