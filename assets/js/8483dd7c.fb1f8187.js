@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[2572],{80240:e=>{e.exports=JSON.parse('{"allTagsPath":"/flipper/blog/tags","slug":"/flipper/blog/tags/react-native","name":"react-native","count":1,"permalink":"/flipper/blog/tags/react-native"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[2849],{25838:p=>{p.exports=JSON.parse('{"allTagsPath":"/flipper/blog/tags","slug":"/flipper/blog/tags/flipper","name":"flipper","count":1,"permalink":"/flipper/blog/tags/flipper"}')}}]);
