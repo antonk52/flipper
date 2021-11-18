@@ -22,7 +22,7 @@ const siteConfig = {
     internal: 'https://flipper.thefacebook.com/',
     external: 'https://fbflipper.com/',
   }),
-  baseUrl: '/',
+  baseUrl: '/flipper/',
   projectName: 'flipper',
   // force enable
   trailingSlash: true,
